@@ -1,5 +1,16 @@
 import React from 'react';
 
-const Dashboard: React.FC = () => <h1>Dashboard</h1>;
+import { Container } from './styles';
+import constructionGif from '../../assets/construction.gif';
+
+const Dashboard: React.FC = () => {
+  return (
+    <>
+      <Container>
+        <img src={constructionGif} alt=""/>
+      </Container>
+    </>
+  );
+};
 
 export default Dashboard;
