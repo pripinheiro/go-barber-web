@@ -16,7 +16,7 @@ In this video you can see the animations, styles and authentications.
 
 **_Video_**
 
-![](/src/assets/sampleVideo.mov)
+[![GoBarber sample video](src/assets/screenshotVideo.png)](https://youtu.be/gn1CswJa0Vk)
 
 
 
